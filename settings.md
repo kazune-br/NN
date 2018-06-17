@@ -5,7 +5,8 @@ $ conda activate jdla
 $ pip freeze   
 $ conda install tensorflow   
 $ conda install keras  
-  
+https://qiita.com/yampy/items/4e89cd97179bbd20f726  
+
   
 確認コード  
 $ python  
